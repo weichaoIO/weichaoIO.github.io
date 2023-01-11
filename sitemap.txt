@@ -1,5 +1,6 @@
-https://weichao.io/skiing/image.json
 https://weichao.io/photo/image.json
+https://weichao.io/about/index.html
+https://weichao.io/skiing/image.json
 https://weichao.io/be22ec3fbfaf/
 https://weichao.io/19dae968f2dd/
 https://weichao.io/615952530bfd/
@@ -17,7 +18,6 @@ https://weichao.io/skiing/index.html
 https://weichao.io/motor/index.html
 https://weichao.io/photo/index.html
 https://weichao.io/2cdd0c565e9c/
-https://weichao.io/about/index.html
 https://weichao.io/90dde9965f2d/
 https://weichao.io/76b7cb3d4805/
 https://weichao.io/1a39b5b4e532/
