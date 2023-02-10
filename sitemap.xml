@@ -2,18 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://weichao.io/skiing/image.json</loc>
+    <loc>https://weichao.io/photo/image.json</loc>
     
-    <lastmod>2023-02-07</lastmod>
+    <lastmod>2023-02-10</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://weichao.io/photo/image.json</loc>
+    <loc>https://weichao.io/skiing/image.json</loc>
     
-    <lastmod>2023-02-07</lastmod>
+    <lastmod>2023-02-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://weichao.io/a578c9b3d5b2/</loc>
+    
+    <lastmod>2023-02-10</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -317,7 +326,7 @@
   </url>
   
   <url>
-    <loc>https://weichao.io/435eec0e6f78/</loc>
+    <loc>https://weichao.io/39f465f4ad80/</loc>
     
     <lastmod>2022-12-04</lastmod>
     
@@ -326,7 +335,7 @@
   </url>
   
   <url>
-    <loc>https://weichao.io/39f465f4ad80/</loc>
+    <loc>https://weichao.io/435eec0e6f78/</loc>
     
     <lastmod>2022-12-04</lastmod>
     
@@ -362,7 +371,7 @@
   </url>
   
   <url>
-    <loc>https://weichao.io/7e67a79aea20/</loc>
+    <loc>https://weichao.io/f7ec8a5fdbc1/</loc>
     
     <lastmod>2022-12-04</lastmod>
     
@@ -380,7 +389,7 @@
   </url>
   
   <url>
-    <loc>https://weichao.io/f7ec8a5fdbc1/</loc>
+    <loc>https://weichao.io/178acade2181/</loc>
     
     <lastmod>2022-12-04</lastmod>
     
@@ -389,7 +398,7 @@
   </url>
   
   <url>
-    <loc>https://weichao.io/178acade2181/</loc>
+    <loc>https://weichao.io/7e67a79aea20/</loc>
     
     <lastmod>2022-12-04</lastmod>
     
@@ -650,7 +659,7 @@
   </url>
   
   <url>
-    <loc>https://weichao.io/53e1cd844b9c/</loc>
+    <loc>https://weichao.io/bf8a7a732139/</loc>
     
     <lastmod>2022-12-04</lastmod>
     
@@ -659,7 +668,7 @@
   </url>
   
   <url>
-    <loc>https://weichao.io/bf8a7a732139/</loc>
+    <loc>https://weichao.io/53e1cd844b9c/</loc>
     
     <lastmod>2022-12-04</lastmod>
     
@@ -830,7 +839,7 @@
   </url>
   
   <url>
-    <loc>https://weichao.io/4b5e292bd6f0/</loc>
+    <loc>https://weichao.io/ef8fb4c4a2c4/</loc>
     
     <lastmod>2022-12-04</lastmod>
     
@@ -839,7 +848,7 @@
   </url>
   
   <url>
-    <loc>https://weichao.io/ef8fb4c4a2c4/</loc>
+    <loc>https://weichao.io/4b5e292bd6f0/</loc>
     
     <lastmod>2022-12-04</lastmod>
     
@@ -922,7 +931,7 @@
 
   <url>
     <loc>https://weichao.io/</loc>
-    <lastmod>2023-02-07</lastmod>
+    <lastmod>2023-02-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
